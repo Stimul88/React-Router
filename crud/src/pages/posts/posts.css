@@ -1,0 +1,31 @@
+.create {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+
+.create-box {
+    display: flex;
+    position: relative;
+    height: 35px;
+    width: 100%;
+    border-radius: 5px;
+    background: white;
+    border: transparent;
+}
+
+.link-create-button {
+    position: absolute;
+    height: 30px;
+    right: 10px;
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.link {
+    text-decoration: none;
+}
